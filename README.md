@@ -9,8 +9,13 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/leonardolima-art/**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardolimaart&show_icons=true&locale=en&layout=compact" alt="leonardolimaart" /></p>
+<h3 align="center">Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardolimaart&show_icons=true&locale=en" alt="leonardolimaart" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardolimaart&show_icons=true&locale=en&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardolimaart&show_icons=true&locale=en" height="150"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardolimaart&" alt="leonardolimaart" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardolimaart"/>
+</p>
